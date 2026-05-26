@@ -36,6 +36,7 @@ yarn-error.log*
 # =========================
 
 .env
+.env.example
 
 # Keep example environment file
 !.env.example
