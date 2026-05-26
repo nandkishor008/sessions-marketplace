@@ -640,9 +640,9 @@ are not included in this repository.
 
 The homepage introduces the platform with featured mentorship sessions, responsive hero section, and dark/light mode support.
 
-```md
+
 ![Home](./screenshots/home.png)
-```
+
 
 ---
 
@@ -650,9 +650,9 @@ The homepage introduces the platform with featured mentorship sessions, responsi
 
 Displays all available mentorship sessions with search, filters, responsive cards, and pagination.
 
-```md
+
 ![Sessions](./screenshots/sessions.png)
-```
+
 
 ---
 
@@ -660,9 +660,9 @@ Displays all available mentorship sessions with search, filters, responsive card
 
 Detailed mentorship session page with booking functionality and related sessions.
 
-```md
+
 ![Session Details](./screenshots/session-details.png)
-```
+
 
 ---
 
@@ -670,9 +670,9 @@ Detailed mentorship session page with booking functionality and related sessions
 
 Dashboard for users to manage bookings and learning activity.
 
-```md
+
 ![Dashboard](./screenshots/dashboard.png)
-```
+
 
 ---
 
@@ -680,9 +680,9 @@ Dashboard for users to manage bookings and learning activity.
 
 Creator analytics dashboard with earnings overview, session statistics, and quick management actions.
 
-```md
+
 ![Creator Dashboard](./screenshots/creator-dashboard.png)
-```
+
 
 ---
 
@@ -690,19 +690,19 @@ Creator analytics dashboard with earnings overview, session statistics, and quic
 
 Displays grouped bookings with responsive tables and pagination support.
 
-```md
+
 ![Creator Bookings](./screenshots/creator-bookings.png)
-```
+
 
 ---
 
-## Dark Mode
+## Light Mode
 
-The application also supports dark mode UI across all pages.
+The application also supports Light mode UI across all pages.
 
-```md
-![Dark Mode](./screenshots/dark-mode.png)
-```
+
+![Light Mode](./screenshots/dark.png)
+
 
 ---
 
