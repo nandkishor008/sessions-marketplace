@@ -752,8 +752,8 @@ password: alex12345
 ## User Account
 
 ```text
-username: johnstudent
-password: john12345
+username: nand
+password: 123456
 ```
 
 ---
